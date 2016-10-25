@@ -35,8 +35,8 @@ of those sections to manage the look and feel of the site. */
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background-image: url('hunter.jpg');
-        background-size:contain;
+    background-image: url('https://github.com/StephanNears/StephanNears.github.io/blob/master/hunter.jpg?raw=true');
+        background-size:cover;
 background-repeat:no-repeat;
 }
 
@@ -45,6 +45,9 @@ background-repeat:no-repeat;
     padding-top: 150px;
     text-align: center;
     background: #fff;
+    background-image: url('https://github.com/StephanNears/StephanNears.github.io/blob/master/Gon.jpg?raw=true');
+        background-size:cover;
+background-repeat:no-repeat;
 }
 
 .services-section {
@@ -52,6 +55,9 @@ background-repeat:no-repeat;
     padding-top: 150px;
     text-align: center;
     background: #fff;
+    background-image: url('https://github.com/StephanNears/StephanNears.github.io/blob/master/Kill.jpg?raw=true');
+        background-size:cover;
+background-repeat:no-repeat;
 }
 
 .contact-section {
