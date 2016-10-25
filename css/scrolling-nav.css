@@ -62,18 +62,18 @@ background-repeat:no-repeat;
 }
 
 .hunter{
-    background-image: url('https://github.com/StephanNears/StephanNears.github.io/blob/master/Gon.jpg?raw=true');
-        background-size:contain;
+    background-image: url('https://github.com/StephanNears/StephanNears.github.io/blob/master/hunter.jpg?raw=true');
+        background-size:cover;
     background-repeat:no-repeat;
 }
 
 .Gon{
-     background-image: url('Gon.jpg');
-        background-size:contain;
+     background-image: url('https://github.com/StephanNears/StephanNears.github.io/blob/master/Gon.jpg?raw=true');
+        background-size:cover;
     background-repeat:no-repeat;
 }
 .Kill{
-     background-image: url('Kill.jpg');
-        background-size:contain;
+     background-image: url('https://github.com/StephanNears/StephanNears.github.io/blob/master/Kill.jpg?raw=true');
+        background-size:cover;
     background-repeat:no-repeat;
 }
