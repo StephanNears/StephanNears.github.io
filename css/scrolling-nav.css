@@ -60,18 +60,18 @@ of those sections to manage the look and feel of the site. */
 }
 
 .hunter{
-    background-image: url(hunter.jpg);
+    background-image: url('hunter.jpg');
         background-size:contain;
     background-repeat:no-repeat;
 }
 
 .Gon{
-     background-image: url(Gon.jpg);
+     background-image: url('Gon.jpg');
         background-size:contain;
     background-repeat:no-repeat;
 }
 .Kill{
-     background-image: url(Kill.jpg);
+     background-image: url('Kill.jpg');
         background-size:contain;
     background-repeat:no-repeat;
 }
