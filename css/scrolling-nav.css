@@ -35,21 +35,24 @@ of those sections to manage the look and feel of the site. */
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+    background-image: url(hunter.jpg);
+    background-size:contain;
 }
 
 .about-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #eee;
+    background-image: url(Gon.jpg);
+    background-size:contain;
 }
 
 .services-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+    background-image: url(Kill.jpg);
+    background-size:contain;
 }
 
 .contact-section {
